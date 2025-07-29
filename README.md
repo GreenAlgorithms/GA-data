@@ -15,6 +15,8 @@ This repository stores historical yearly carbon intensity (CI) data from 2024, p
 
 You are free to use, share, and adapt the data under the terms of the ODbL. See [LICENSE](carbon-intensity/electricitymap/LICENSE) for full license text.
 
+The data has been aggregated by Nadja Volkmann at the University of Tübingen [[GitHub repo]](https://github.com/nadnein/Electricity_Maps_CI_Table).
+
 ### CPU TDP data
 
 This repository stores CPU TDP data, provided by [WikiChip](https://en.wikichip.org/wiki/WikiChip) under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  
